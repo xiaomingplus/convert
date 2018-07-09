@@ -12,3 +12,7 @@
 - 16进制转别的进制直接输入```conv 0x1a```
 - 8进制转别的进制直接输入```conv 0o123```
 - 2进制转别的进制直接输入```conv 0o101```
+
+## 截图
+
+![](https://ws1.sinaimg.cn/large/006tNc79gy1ft3w0tdynaj30v80e6q4c.jpg)
