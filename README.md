@@ -4,6 +4,8 @@
 
 ## 下载链接
 
+<https://github.com/xiaomingplus/convert/releases/download/v1.0.0/convert.alfredworkflow>
+
 ## 如何使用
 
 - 10进制转别的进制直接输入```conv 123```
